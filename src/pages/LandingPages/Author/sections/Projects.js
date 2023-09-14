@@ -47,9 +47,9 @@ function Places() {
               description="Captivating massively multiplayer online browser game built using JavaScript, HTML, CSS, and SQL"
               action={{
                 type: "external",
-                route: "https://github.com/justindwang/your-path-mmo",
+                route: "https://www.yourpathmmo.com",
                 color: "info",
-                label: "github link",
+                label: "try it out",
               }}
             />
           </Grid>
